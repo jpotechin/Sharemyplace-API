@@ -24,8 +24,6 @@ namespace API.Entities
         public bool OwnerRenter { get; set; }
         public string City { get; set; }
         public string State { get; set; }
-        public ICollection<Location> LocationDetails { get; set; }
-
         public ICollection<Photo> Photos { get; set; }
 
         public int GetAge()

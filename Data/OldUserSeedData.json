@@ -1,0 +1,342 @@
+[
+  {
+    "UserName": "Kay",
+    "Gender": "female",
+    "DateOfBirth": "1980-03-14",
+    "KnownAs": "Kay",
+    "Created": "2019-06-30",
+    "LastActive": "2020-06-12",
+    "Introduction": "Ullamco commodo esse incididunt consectetur amet magna. Veniam ea minim pariatur excepteur ad qui pariatur. Laborum veniam pariatur non ea aliqua laborum non consequat elit. Consequat dolor consectetur aliqua dolore culpa dolore magna adipisicing laboris in culpa laborum esse tempor.\r\n",
+    "LookingFor": "Ullamco velit eiusmod reprehenderit eu ipsum aute aliquip commodo sit. Cillum ad irure consectetur laborum sit adipisicing non mollit anim. Ad dolore et dolore voluptate. Laboris sunt laborum officia id laborum magna ullamco. Amet Lorem irure tempor deserunt ipsum est Lorem voluptate do laboris. Lorem consequat quis Lorem fugiat amet qui minim sunt minim ex nostrud sunt proident.\r\n",
+    "Interests": "Aute exercitation aliquip consequat duis nulla nostrud exercitation.",
+    "OwnerRenter": false,
+    "City": "Leola",
+    "State": "Kansas",
+    "LocationDetails": {
+      "StreetNumber": null,
+      "StreetName": null,
+      "City": null,
+      "State": null,
+      "Zipcode": null,
+      "Description": null,
+      "IsFurnished": null,
+      "MinPrice": null,
+      "MaxPrice": null,
+      "Feature": {
+        "Amenity": null
+      }
+    },
+    "Photos": [
+      {
+        "url": "https://randomuser.me/api/portraits/women/22.jpg",
+        "isMain": true
+      }
+    ]
+  },
+  {
+    "UserName": "Francesca",
+    "Gender": "female",
+    "DateOfBirth": "1965-10-12",
+    "KnownAs": "Francesca",
+    "Created": "2019-04-28",
+    "LastActive": "2020-06-05",
+    "Introduction": "Irure laborum do enim ea dolore. Mollit irure laborum ipsum enim esse in anim voluptate sint excepteur aliqua. Lorem id aute minim irure eiusmod eiusmod labore. Id mollit laboris adipisicing irure id irure. Esse nulla ea consequat irure sunt ea aliquip tempor in adipisicing tempor. Excepteur culpa nostrud commodo cillum esse deserunt exercitation irure quis. Ad culpa est incididunt aute consectetur incididunt reprehenderit id consectetur officia.\r\n",
+    "LookingFor": "Ea minim nisi velit excepteur sint. Sint voluptate pariatur enim consectetur sit non elit ipsum sunt laborum in pariatur reprehenderit nostrud. Deserunt aliquip irure exercitation eiusmod nisi dolore ad. Lorem dolore ut reprehenderit non proident sint tempor non amet laborum deserunt pariatur. Amet nisi laboris labore nulla dolor do.\r\n",
+    "Interests": "Id eiusmod mollit cupidatat eiusmod labore esse voluptate ut.",
+    "OwnerRenter": false,
+    "City": "Faywood",
+    "State": "Pennsylvania",
+    "LocationDetails": {
+      "StreetNumber": null,
+      "StreetName": null,
+      "City": null,
+      "State": null,
+      "Zipcode": null,
+      "Description": null,
+      "IsFurnished": null,
+      "MinPrice": null,
+      "MaxPrice": null,
+      "Feature": {
+        "Amenity": null
+      }
+    },
+    "Photos": [
+      {
+        "url": "https://randomuser.me/api/portraits/women/76.jpg",
+        "isMain": true
+      }
+    ]
+  },
+  {
+    "UserName": "Rochelle",
+    "Gender": "female",
+    "DateOfBirth": "1998-11-20",
+    "KnownAs": "Rochelle",
+    "Created": "2020-03-31",
+    "LastActive": "2020-06-21",
+    "Introduction": "Mollit do deserunt tempor culpa. Reprehenderit dolor ex excepteur reprehenderit. Eu laboris elit et ipsum sit consectetur officia velit do dolor do. Cillum irure nostrud anim dolor cupidatat adipisicing in culpa irure et adipisicing non aliquip. Velit consectetur deserunt exercitation adipisicing mollit adipisicing irure qui deserunt esse. Ad ipsum culpa consectetur incididunt dolor. Commodo incididunt ut anim Lorem ad et minim ipsum est anim cillum nisi enim.\r\n",
+    "LookingFor": "Cupidatat labore labore id quis enim excepteur occaecat do est dolore excepteur dolor eu cupidatat. Voluptate adipisicing non ex anim nostrud nisi. Nisi est Lorem in sit esse ea excepteur nulla aliquip minim adipisicing. Mollit aliquip cupidatat eu non deserunt eu deserunt. Dolor eu occaecat do aute irure occaecat adipisicing in quis irure. Nisi elit dolor mollit Lorem exercitation.\r\n",
+    "Interests": "Cupidatat ex aliquip deserunt ex proident officia proident adipisicing anim quis esse sit enim.",
+    "OwnerRenter": true,
+    "City": "Ballico",
+    "State": "North Dakota",
+    "LocationDetails": {
+      "StreetNumber": 4560,
+      "StreetName": "Whitwell Place",
+      "City": "Ballico",
+      "State": "North Dakota",
+      "Zipcode": 42181,
+      "Description": "Sunt duis tempor magna occaecat ea nostrud veniam. Consequat et aute aliquip aliquip ullamco sint. Excepteur enim ad ad deserunt amet do voluptate exercitation adipisicing pariatur culpa. Cillum est dolor consequat velit officia qui ea Lorem pariatur. Minim voluptate est in nostrud enim sit minim. Non ad anim aliqua duis qui proident cupidatat. Do sunt cillum esse pariatur anim laborum excepteur irure sit proident proident do mollit.\r\n",
+      "IsFurnished": false,
+      "MinPrice": 750,
+      "MaxPrice": 1000,
+      "Feature": {
+        "Amenity": "bed"
+      }
+    },
+    "Photos": [
+      {
+        "url": "https://randomuser.me/api/portraits/women/19.jpg",
+        "isMain": true
+      }
+    ]
+  },
+  {
+    "UserName": "Jo",
+    "Gender": "female",
+    "DateOfBirth": "1966-06-06",
+    "KnownAs": "Jo",
+    "Created": "2019-01-25",
+    "LastActive": "2020-06-17",
+    "Introduction": "Reprehenderit pariatur magna cupidatat laborum Lorem id. Ex aliqua ut sit esse dolor qui cillum tempor do labore. Adipisicing ad ad laboris excepteur ea elit laborum exercitation.\r\n",
+    "LookingFor": "Ullamco velit id irure tempor nostrud. Dolor sint ea ut ullamco consequat nisi duis adipisicing. Irure aute sit officia ut incididunt in. Ullamco commodo non commodo nisi officia dolor proident adipisicing consectetur. Cillum non amet anim quis. Mollit ut sit laboris proident incididunt nostrud Lorem Lorem sit cupidatat consectetur adipisicing officia.\r\n",
+    "Interests": "Amet proident laboris excepteur culpa fugiat sint cupidatat ipsum.",
+    "OwnerRenter": false,
+    "City": "Kilbourne",
+    "State": "Alabama",
+    "LocationDetails": {
+      "StreetNumber": null,
+      "StreetName": null,
+      "City": null,
+      "State": null,
+      "Zipcode": null,
+      "Description": null,
+      "IsFurnished": null,
+      "MinPrice": null,
+      "MaxPrice": null,
+      "Feature": {
+        "Amenity": null
+      }
+    },
+    "Photos": [
+      {
+        "url": "https://randomuser.me/api/portraits/women/40.jpg",
+        "isMain": true
+      }
+    ]
+  },
+  {
+    "UserName": "Nita",
+    "Gender": "female",
+    "DateOfBirth": "1965-01-02",
+    "KnownAs": "Nita",
+    "Created": "2020-06-26",
+    "LastActive": "2020-05-08",
+    "Introduction": "Reprehenderit aliquip non cillum Lorem nisi culpa incididunt qui ad incididunt duis. Ad veniam eu est aliquip. Veniam Lorem mollit deserunt tempor aute ad anim anim deserunt.\r\n",
+    "LookingFor": "Ipsum anim Lorem esse et anim eu ullamco aliquip ut. Qui do anim proident in consequat aliqua non ullamco in mollit ea nisi ipsum duis. Cillum culpa et et do non magna nostrud cillum est reprehenderit nostrud aliqua ad. Et excepteur cupidatat mollit adipisicing incididunt esse incididunt occaecat minim irure cillum aliquip ullamco do. Sunt dolor proident id nulla ex dolor voluptate enim ipsum est pariatur dolor.\r\n",
+    "Interests": "Fugiat fugiat ut nulla aliquip enim culpa consectetur cillum enim.",
+    "OwnerRenter": true,
+    "City": "Greer",
+    "State": "Wisconsin",
+    "LocationDetails": {
+      "StreetNumber": 7697,
+      "StreetName": "Lott Place",
+      "City": "Greer",
+      "State": "Wisconsin",
+      "Zipcode": 79026,
+      "Description": "Excepteur ex deserunt pariatur fugiat in exercitation excepteur ad irure sit qui aute nostrud. Fugiat in proident non qui incididunt officia est consequat do. Dolor aliqua consectetur adipisicing velit voluptate elit deserunt excepteur laboris nostrud nisi dolor in. Aute Lorem mollit laborum nulla Lorem. Consequat velit Lorem officia deserunt laborum laborum reprehenderit adipisicing ipsum elit. Reprehenderit ad ea incididunt non cupidatat quis nostrud culpa officia eiusmod laborum cillum. Veniam quis adipisicing labore commodo officia ullamco aliqua consectetur dolor exercitation consequat pariatur.\r\n",
+      "IsFurnished": false,
+      "MinPrice": 500,
+      "MaxPrice": 900,
+      "Feature": {
+        "Amenity": "bed"
+      }
+    },
+    "Photos": [
+      {
+        "url": "https://randomuser.me/api/portraits/women/34.jpg",
+        "isMain": true
+      }
+    ]
+  },
+  {
+    "UserName": "Neal",
+    "Gender": "male",
+    "DateOfBirth": "1986-01-22",
+    "KnownAs": "Neal",
+    "Created": "2019-10-21",
+    "LastActive": "2020-05-24",
+    "Introduction": "Tempor eiusmod excepteur amet duis dolor pariatur. Consequat enim culpa in aute ipsum ipsum deserunt consequat sunt ullamco. Proident aute officia veniam excepteur non veniam laboris nostrud eu consectetur ea tempor qui. Est do voluptate cupidatat duis amet aliqua et nulla duis ad Lorem tempor dolore occaecat. Proident velit non do nisi non pariatur dolor eu incididunt sunt adipisicing ex duis.\r\n",
+    "LookingFor": "Nisi laborum voluptate commodo deserunt minim. Adipisicing aliqua tempor irure dolor laboris eiusmod non voluptate. Eu magna deserunt laborum qui laboris cillum qui culpa qui cillum dolor sint cillum. Do nostrud velit do ullamco commodo elit. Quis laboris magna sit ut.\r\n",
+    "Interests": "Consectetur proident est consequat pariatur id sint voluptate fugiat.",
+    "OwnerRenter": true,
+    "City": "Faywood",
+    "State": "Oklahoma",
+    "LocationDetails": {
+      "StreetNumber": 8867,
+      "StreetName": "Tennis Court",
+      "City": "Faywood",
+      "State": "Oklahoma",
+      "Zipcode": 26790,
+      "Description": "Exercitation proident officia exercitation anim nulla sint eu id ex. Proident aliqua cupidatat do occaecat ipsum Lorem adipisicing nulla est. Aliqua fugiat amet mollit reprehenderit est.\r\n",
+      "IsFurnished": true,
+      "MinPrice": 109,
+      "MaxPrice": 2149,
+      "Feature": {
+        "Amenity": "bed"
+      }
+    },
+    "Photos": [
+      {
+        "url": "https://randomuser.me/api/portraits/men/46.jpg",
+        "isMain": true
+      }
+    ]
+  },
+  {
+    "UserName": "vlazlo",
+    "Gender": "male",
+    "DateOfBirth": "1956-04-27",
+    "KnownAs": "Joseph",
+    "Created": "2019-04-11",
+    "LastActive": "2020-06-13",
+    "Introduction": "Occaecat amet voluptate sint irure sunt. Pariatur sunt sit enim amet elit elit qui ipsum culpa commodo cillum. Amet ut qui id elit qui aliqua Lorem labore ipsum qui. Lorem laboris magna ea sit ut. Pariatur cupidatat dolore minim aliquip voluptate Lorem incididunt laboris tempor reprehenderit ullamco anim culpa veniam. Deserunt velit id pariatur duis aute anim sit eu deserunt eiusmod amet veniam qui in.\r\n",
+    "LookingFor": "Esse cillum consequat esse laborum ex. Id proident id adipisicing commodo magna deserunt est nisi nisi officia. Est veniam labore et ea occaecat enim do aliqua ut exercitation nulla id duis sit.\r\n",
+    "Interests": "Cupidatat laboris enim pariatur aliquip esse veniam excepteur cupidatat laborum.",
+    "OwnerRenter": true,
+    "City": "Rose",
+    "State": "West Virginia",
+    "LocationDetails": {
+      "StreetNumber": 4218,
+      "StreetName": "Hastings Street",
+      "City": "Rose",
+      "State": "West Virginia",
+      "Zipcode": 56684,
+      "Description": "Aute labore in anim officia sint dolor consectetur aliqua pariatur. Id amet culpa aliquip amet ut magna excepteur quis velit magna aute Lorem. Labore cupidatat occaecat cillum irure consequat cupidatat anim reprehenderit ad elit magna sunt ut nostrud.\r\n",
+      "IsFurnished": true,
+      "MinPrice": 1160,
+      "MaxPrice": 148,
+      "Feature": {
+        "Amenity": "bed"
+      }
+    },
+    "Photos": [
+      {
+        "url": "https://randomuser.me/api/portraits/men/29.jpg",
+        "isMain": true
+      }
+    ]
+  },
+  {
+    "UserName": "Medina",
+    "Gender": "male",
+    "DateOfBirth": "1992-06-27",
+    "KnownAs": "Medina",
+    "Created": "2019-08-25",
+    "LastActive": "2020-06-17",
+    "Introduction": "Velit labore nostrud aute cillum irure ex. Qui nulla laborum occaecat aliqua sint do id sint eu do enim reprehenderit ut ipsum. Enim consectetur nisi aliquip aliquip non cillum tempor aliqua.\r\n",
+    "LookingFor": "Ullamco esse nostrud commodo enim officia velit esse ea est. Dolore veniam irure nostrud consequat nostrud incididunt sit est nulla aliquip. Laborum culpa labore reprehenderit officia anim. Cupidatat nulla ullamco ullamco eu proident enim id consequat et labore qui. Ut nulla veniam proident veniam exercitation magna aliqua. Velit mollit ut irure nostrud ullamco.\r\n",
+    "Interests": "Velit velit pariatur ad aliquip est irure.",
+    "OwnerRenter": true,
+    "City": "Vincent",
+    "State": "Maryland",
+    "LocationDetails": {
+      "StreetNumber": 7675,
+      "StreetName": "Keen Court",
+      "City": "Vincent",
+      "State": "Maryland",
+      "Zipcode": 32573,
+      "Description": "Id nulla et ipsum id proident in aliqua aliqua proident. Cupidatat reprehenderit ullamco elit cupidatat magna do. Minim est veniam irure enim veniam id fugiat officia.\r\n",
+      "IsFurnished": false,
+      "MinPrice": 2713,
+      "MaxPrice": 2181,
+      "Feature": {
+        "Amenity": "bed"
+      }
+    },
+    "Photos": [
+      {
+        "url": "https://randomuser.me/api/portraits/men/11.jpg",
+        "isMain": true
+      }
+    ]
+  },
+  {
+    "UserName": "Mcgowan",
+    "Gender": "male",
+    "DateOfBirth": "1964-11-06",
+    "KnownAs": "Mcgowan",
+    "Created": "2019-08-18",
+    "LastActive": "2020-06-27",
+    "Introduction": "Dolore consectetur fugiat quis dolore. Exercitation voluptate do tempor quis anim aliqua mollit velit. Velit dolore aliquip aliqua commodo voluptate. Ipsum proident irure veniam culpa duis nostrud consequat quis magna exercitation laborum aute. In incididunt quis magna qui ea fugiat deserunt aliquip ex enim do et eiusmod mollit. Velit et laboris occaecat id exercitation voluptate aliquip sit in sint officia.\r\n",
+    "LookingFor": "In dolore ea veniam id. Quis nulla et ex irure et adipisicing non id sunt nulla ipsum nostrud ex. Reprehenderit esse commodo ex aliqua minim.\r\n",
+    "Interests": "Qui cupidatat exercitation consequat laboris fugiat nulla sunt.",
+    "OwnerRenter": false,
+    "City": "Fontanelle",
+    "State": "New Jersey",
+    "LocationDetails": {
+      "StreetNumber": null,
+      "StreetName": null,
+      "City": null,
+      "State": null,
+      "Zipcode": null,
+      "Description": null,
+      "IsFurnished": null,
+      "MinPrice": null,
+      "MaxPrice": null,
+      "Feature": {
+        "Amenity": null
+      }
+    },
+    "Photos": [
+      {
+        "url": "https://randomuser.me/api/portraits/men/56.jpg",
+        "isMain": true
+      }
+    ]
+  },
+  {
+    "UserName": "Mcmahon",
+    "Gender": "male",
+    "DateOfBirth": "1999-03-01",
+    "KnownAs": "Mcmahon",
+    "Created": "2019-07-18",
+    "LastActive": "2020-06-24",
+    "Introduction": "Aliqua ex elit adipisicing magna qui culpa veniam voluptate duis. Culpa sit laboris labore quis enim consectetur do velit. Minim esse veniam ut elit consectetur sunt duis nisi veniam pariatur eu quis nostrud. Commodo officia quis qui pariatur in adipisicing velit et excepteur quis aute fugiat. Exercitation irure magna ullamco officia nisi.\r\n",
+    "LookingFor": "Do ut ullamco sunt pariatur do nostrud esse sunt aute ad veniam veniam id veniam. Esse nostrud voluptate id ex dolore laboris reprehenderit id do anim occaecat reprehenderit aute proident. Sit ea culpa officia culpa reprehenderit pariatur elit culpa elit. Fugiat fugiat nisi ex irure qui laboris consequat sunt nulla.\r\n",
+    "Interests": "Eu reprehenderit elit est cillum id voluptate mollit.",
+    "OwnerRenter": true,
+    "City": "Jardine",
+    "State": "Georgia",
+    "LocationDetails": {
+      "StreetNumber": 5220,
+      "StreetName": "Strong Place",
+      "City": "Jardine",
+      "State": "Georgia",
+      "Zipcode": 83206,
+      "Description": "Ex ullamco reprehenderit commodo sint mollit reprehenderit in aliquip. Laborum veniam amet laborum culpa veniam aliquip exercitation velit occaecat velit consequat do. Consectetur eu elit non velit magna aute cupidatat ut qui.\r\n",
+      "IsFurnished": false,
+      "MinPrice": 744,
+      "MaxPrice": 596,
+      "Feature": {
+        "Amenity": "bed"
+      }
+    },
+    "Photos": [
+      {
+        "url": "https://randomuser.me/api/portraits/men/10.jpg",
+        "isMain": true
+      }
+    ]
+  }
+]
