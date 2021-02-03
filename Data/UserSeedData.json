@@ -11,10 +11,11 @@
     "Interests": "Magna eiusmod do sint aute.",
     "City": "Idamay",
     "State": "Nevada",
+    "OwnerRenter": false,
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/women/26.jpg",
-        "isMain": true
+        "Url": "https://randomuser.me/api/portraits/women/26.jpg",
+        "IsMain": true
       }
     ]
   },
@@ -30,10 +31,11 @@
     "Interests": "Ipsum amet qui laboris nisi officia eiusmod dolor sit pariatur.",
     "City": "Bowden",
     "State": "Florida",
+    "OwnerRenter": false,
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/women/73.jpg",
-        "isMain": true
+        "Url": "https://randomuser.me/api/portraits/women/73.jpg",
+        "IsMain": true
       }
     ]
   },
@@ -49,10 +51,11 @@
     "Interests": "Nisi mollit est ipsum mollit sint sit culpa ad nisi nulla officia.",
     "City": "Dorneyville",
     "State": "Idaho",
+    "OwnerRenter": false,
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/women/26.jpg",
-        "isMain": true
+        "Url": "https://randomuser.me/api/portraits/women/26.jpg",
+        "IsMain": true
       }
     ]
   },
@@ -68,10 +71,11 @@
     "Interests": "Occaecat proident laborum duis enim et anim elit aute aliqua pariatur ex.",
     "City": "Talpa",
     "State": "Georgia",
+    "OwnerRenter": true,
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/women/52.jpg",
-        "isMain": true
+        "Url": "https://randomuser.me/api/portraits/women/52.jpg",
+        "IsMain": true
       }
     ]
   },
@@ -87,10 +91,11 @@
     "Interests": "Ex esse cupidatat adipisicing aliqua incididunt officia incididunt qui est.",
     "City": "Bonanza",
     "State": "Louisiana",
+    "OwnerRenter": true,
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/women/52.jpg",
-        "isMain": true
+        "Url": "https://randomuser.me/api/portraits/women/52.jpg",
+        "IsMain": true
       }
     ]
   },
@@ -106,10 +111,11 @@
     "Interests": "Fugiat qui labore occaecat culpa in.",
     "City": "Waterview",
     "State": "Maryland",
+    "OwnerRenter": true,
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/men/28.jpg",
-        "isMain": true
+        "Url": "https://randomuser.me/api/portraits/men/28.jpg",
+        "IsMain": true
       }
     ]
   },
@@ -125,10 +131,11 @@
     "Interests": "In aute mollit adipisicing dolor.",
     "City": "Grazierville",
     "State": "Idaho",
+    "OwnerRenter": false,
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/men/53.jpg",
-        "isMain": true
+        "Url": "https://randomuser.me/api/portraits/men/53.jpg",
+        "IsMain": true
       }
     ]
   },
@@ -144,10 +151,11 @@
     "Interests": "Mollit reprehenderit ut quis officia.",
     "City": "Clarence",
     "State": "Michigan",
+    "OwnerRenter": true,
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/men/59.jpg",
-        "isMain": true
+        "Url": "https://randomuser.me/api/portraits/men/59.jpg",
+        "IsMain": true
       }
     ]
   },
@@ -163,10 +171,11 @@
     "Interests": "Irure exercitation fugiat esse officia elit labore nulla dolore laboris esse reprehenderit ut.",
     "City": "Westphalia",
     "State": "West Virginia",
+    "OwnerRenter": false,
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/men/57.jpg",
-        "isMain": true
+        "Url": "https://randomuser.me/api/portraits/men/57.jpg",
+        "IsMain": true
       }
     ]
   },
@@ -182,10 +191,11 @@
     "Interests": "Dolor elit cillum nostrud magna non exercitation voluptate id laboris.",
     "City": "Crayne",
     "State": "Tennessee",
+    "OwnerRenter": false,
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/men/72.jpg",
-        "isMain": true
+        "Url": "https://randomuser.me/api/portraits/men/72.jpg",
+        "IsMain": true
       }
     ]
   }
