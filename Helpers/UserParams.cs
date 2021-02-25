@@ -1,4 +1,4 @@
-namespace Helpers
+namespace API.Helpers
 {
     public class UserParams
     {
