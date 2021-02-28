@@ -17,7 +17,7 @@ namespace API.Data
 
 		public void AddMessage(Message message)
 		{
-			_context.Messages.Add(message)
+			_context.Messages.Add(message);
 		}
 
 		public void DeleteMessage(Message message)
