@@ -1,4 +1,4 @@
-namespace DTOs
+namespace API.DTOs
 {
     public class CreateMessageDto
     {
