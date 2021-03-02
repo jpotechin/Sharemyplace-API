@@ -84,7 +84,7 @@ namespace API.Data
 				await _context.SaveChangesAsync();
 			}
 
-			return _mapper.Map<IEnumerable<MessageDto>>(messages)
+			return _mapper.Map<IEnumerable<MessageDto>>(messages);
 		}
 
 		public async Task<bool> SaveAllAsync()
